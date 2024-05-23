@@ -1,1 +1,1 @@
-# cli-courses
+# Introduction to command line tools (CLI)
